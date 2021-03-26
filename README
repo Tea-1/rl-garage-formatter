@@ -1,0 +1,5 @@
+Requires:
+Python3+
+Pyperclip
+
+'pip3 install pyperclip'
